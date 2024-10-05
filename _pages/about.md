@@ -11,9 +11,9 @@ I am currently a Graduate Assistant and Ph.D. student at the University of Conne
 
 Research Interest
 ======
-Machine Learning in Cellular Network
-Network Security
-IoT
+- Machine Learning in Cellular Network
+- Network Security
+- IoT
 
 Teaching Experience
 ======
