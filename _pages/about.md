@@ -13,7 +13,7 @@ Research Interest
 ======
 - Machine Learning in Cellular Network
 - Network Security
-- IoT
+- Data analysis
 
 Teaching Experience
 ======
